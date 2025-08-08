@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Database Systems**
 
-- 👨‍💻 All of my projects are available at [https://vigneshkashyap.github.io/](https://vigneshkashyap.github.io/)
+- 👨‍💻 All of my projects are available [here](https://vigneshkashyap.github.io/)
 
 - 📫 How to reach me **vignesh.t.kashyap@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13ecHiRjGFfEzOrnexwJWSJOY04HJZEhj/view?usp=sharing](https://drive.google.com/file/d/13ecHiRjGFfEzOrnexwJWSJOY04HJZEhj/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/13ecHiRjGFfEzOrnexwJWSJOY04HJZEhj/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
