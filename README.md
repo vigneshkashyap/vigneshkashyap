@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshkashyap&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshkashyap" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kashyap_vignesh" target="blank"><img src="https://img.shields.io/twitter/follow/kashyap_vignesh?logo=twitter&style=for-the-badge" alt="kashyap_vignesh" /></a> </p>
-
 <!-- - 🔭 I’m currently working on **** -->
 
 - 🌱 I’m currently learning **Database Systems**
