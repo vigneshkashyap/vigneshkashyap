@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vignesh Kashyap</h1>
-<h4 align="center">Backend Engineer with 2 years of industry experience desinging micro-services in Java.
-Certified breaker of things, with an incredible passion for tech. Curiousity has made me dive into Front-end, Big Data Engineering and now looking to learn Machine Learning</h4>
+<h4 align="center">Backend Engineer with 2 years of industry experience desinging micro-services.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshkashyap&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshkashyap" /> </p>
 
@@ -8,7 +7,7 @@ Certified breaker of things, with an incredible passion for tech. Curiousity has
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱 I’m currently learning **Reactive Programming, Recommender Systems**
+- 🌱 I’m currently learning **Database Systems**
 
 - 👨‍💻 All of my projects are available at [https://vigneshkashyap.github.io/](https://vigneshkashyap.github.io/)
 
